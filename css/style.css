@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+}
+
+.container-fluid {
+  background-image: url("https://dl.dropboxusercontent.com/u/314204/seamless_paper_texture.png");
+  background-repeat:repeat;
+  height: 100%;
+}
+
+h1 {
+  font-family: Lobster, Monospace;
+}
+
+.quote-btn {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.quote-panel {
+  font-family: lora, "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.social {
+  margin-top: 30px;
+}
